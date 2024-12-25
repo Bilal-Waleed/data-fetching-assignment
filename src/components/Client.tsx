@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import Loader from "../components/Loader";
-import Image from "next/image";
+// import Image from "next/image";
 
 export interface Client {
   id: number;
